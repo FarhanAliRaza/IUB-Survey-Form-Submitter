@@ -1,4 +1,4 @@
 # IUB-Survey-Form-Sumitter
 ## Usage
-install requirements 
+##Install requirements 
 python main.py url-of-your-form
